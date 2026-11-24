@@ -1,0 +1,13 @@
+{
+  "name": "while-e-coyote",
+  "version": "1.0.0",
+  "description": "Code Immersives JavaScript exercise: while loops over command-line arguments",
+  "scripts": {
+    "test": "jest --watchAll",
+    "test:ci": "jest --ci"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
